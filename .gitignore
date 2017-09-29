@@ -1,0 +1,37 @@
+# General
+build/
+
+# Gradle
+build-eclipse/
+bin/
+build.ant/
+.gradle/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+/classes
+/out
+
+# NetBeans
+/.nb-gradle/
+.nb*
+nbproject/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+
+/target/
