@@ -11,10 +11,10 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.MultivaluedMap;
 
-import com.pluralsight.model.Activity;
-import com.pluralsight.model.User;
-import com.pluralsight.repository.ActivityRepository;
-import com.pluralsight.repository.ActivityRepositoryStub;
+import com.infinity.model.Activity;
+import com.infinity.model.User;
+import com.infinity.repository.ActivityRepository;
+import com.infinity.repository.ActivityRepositoryStub;
 
 @Path("activities") // http:localhost:8080/exercise-services/webapi/activities
 public class ActivityResource {

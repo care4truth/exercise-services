@@ -1,4 +1,4 @@
-package com.pluralsight.model;
+package com.infinity.model;
 
 import javax.xml.bind.annotation.XmlRootElement;
 

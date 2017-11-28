@@ -1,10 +1,10 @@
-package com.pluralsight.repository;
+package com.infinity.repository;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.pluralsight.model.Activity;
-import com.pluralsight.model.User;
+import com.infinity.model.Activity;
+import com.infinity.model.User;
 
 public class ActivityRepositoryStub implements ActivityRepository {
 	/* (non-Javadoc)

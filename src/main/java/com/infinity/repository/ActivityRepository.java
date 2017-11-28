@@ -1,8 +1,8 @@
-package com.pluralsight.repository;
+package com.infinity.repository;
 
 import java.util.List;
 
-import com.pluralsight.model.Activity;
+import com.infinity.model.Activity;
 
 public interface ActivityRepository {
 
